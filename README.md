@@ -1,1 +1,2 @@
 # study-ruby
+がんば頑
